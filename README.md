@@ -6,4 +6,5 @@ Based on:
 
 # License
 Type Theme is distributed uner The MIT License (MIT)
+
 This blog is distributed under Creative Commons, CC BY 2.0
