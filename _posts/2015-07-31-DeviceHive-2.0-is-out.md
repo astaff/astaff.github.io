@@ -1,4 +1,7 @@
-# DeviceHive 2.0 is Out
+---
+layout: post
+title: DeviceHive 2.0 is Out
+---
 DataArt is proud to announce DeviceHive 2.0: faster, friendlier, more functional IoT Data Platform with a rich IoT Gateway framework. Below are some highlights for the release. You can find the latest documentation [here](http://docs.devicehive.com/) and you can try our IoT playground [here](http://playground.devicehive.com/)
 
 ##Cloud Scalability
