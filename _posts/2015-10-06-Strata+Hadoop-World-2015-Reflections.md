@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Strata+Hadoop World 2015 Reflections
+title: Strata+Hadoop World NYC 2015 Reflections
 ---
 Machine learning, cloud, visualization, hadoop, spark, data science, scalability, analytics, terabytes, petabytes, faster, bigger, more secure, simply better. The kind of a merry-go-round that keeps spinning in your head after you spend three days on the exhibit floor at Strata+Hadoop conference. And lots of elephants, of course.
 
