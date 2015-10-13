@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Circle of Life: Open Source and Amazon"
+title: "The Circle of Life: Amazon Web Services and Open Source"
 ---
 
 A series of recent announcements at Amazon's re:Invent is really impressive. Amazon Web Services (AWS) seems to be a top enterprise grade Platform as a Service. Amazon has an astonishing roster of production-ready services covering everything an enterprise cloud service or application needs: messaging, key-value storage, distributed file system, elastic load balancing and compute, single sign on and now and [IoT](https://aws.amazon.com/iot/). I'm sure there will be more to follow and enterprises will try to experiment and adopt much of it. 
